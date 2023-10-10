@@ -1,0 +1,39 @@
+body {
+  font-size: 14px;
+  line-height: 16px;
+  padding: 0;
+  min-height: 100vh;
+  font-family: Roboto, 'Helvetica Neue', sans-serif;
+  font-weight: 400;
+  color: #525866;
+  background-color: red;
+  margin: 0;
+}
+#root {
+  height: 100%;
+}
+
+button {
+  padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  color: currentColor;
+}
+
+.test {
+  background-color: red;
+}
+
+.ada {
+  background-color: red;
+}
