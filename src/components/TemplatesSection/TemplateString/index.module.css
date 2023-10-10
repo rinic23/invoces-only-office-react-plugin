@@ -1,3 +1,5 @@
-.test {
-  background-color: red;
+.templateStringWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }

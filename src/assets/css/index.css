@@ -6,7 +6,6 @@ body {
   font-family: Roboto, 'Helvetica Neue', sans-serif;
   font-weight: 400;
   color: #525866;
-  background-color: red;
   margin: 0;
 }
 #root {
@@ -28,12 +27,4 @@ p {
 
 a {
   color: currentColor;
-}
-
-.test {
-  background-color: red;
-}
-
-.ada {
-  background-color: red;
 }
